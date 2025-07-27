@@ -28,41 +28,45 @@ FlashFume is an AI-powered full-stack web application that enables users to uplo
 ## Screenshots
 HomePage:
 
+<img width="1887" height="907" alt="Screenshot 2025-07-18 153804" src="https://github.com/user-attachments/assets/b20af20a-fcd8-4e32-9d7c-c3608ed4461d" />
 
-<img width="1887" height="907" alt="Screenshot 2025-07-18 153804" src="https://github.com/user-attachments/assets/18582381-334b-438a-8b3a-78619cf3f731" />
 
 
 
 Comparing the Resumes:
 
 
-<img width="1899" height="913" alt="Screenshot 2025-07-18 153839" src="https://github.com/user-attachments/assets/514f55dc-caa5-403d-9b55-228999874da5" />
+<img width="1899" height="913" alt="Screenshot 2025-07-18 153839" src="https://github.com/user-attachments/assets/a7d65aed-051c-48c0-99bf-8b61f92dc317" />
 
 
-<img width="1891" height="900" alt="Screenshot 2025-07-18 155809" src="https://github.com/user-attachments/assets/459d4bcf-7faf-40cd-9903-06c83671f2f0" />
+<img width="1898" height="912" alt="Screenshot 2025-07-18 153946" src="https://github.com/user-attachments/assets/416e8bb7-240f-4f6f-84a6-f4e0b0b951c9" />
 
 
-<img width="1880" height="890" alt="Screenshot 2025-07-18 154016" src="https://github.com/user-attachments/assets/2016acae-7cc7-4e39-9194-c694227cf2fe" />
+<img width="1880" height="890" alt="Screenshot 2025-07-18 154016" src="https://github.com/user-attachments/assets/d26440d0-64f9-467f-ae25-82db295ffca8" />
+
 
 
 
 Upload a Single Resume to get the ATS Score:
 
-<img width="1906" height="887" alt="Screenshot 2025-07-18 153824" src="https://github.com/user-attachments/assets/5678384a-2c45-4bfe-bc74-4209a79b3476" />
 
-
-<img width="1895" height="900" alt="Screenshot 2025-07-18 155612" src="https://github.com/user-attachments/assets/b5ab0e23-f461-4651-83b4-793df976c962" />
+<img width="1906" height="887" alt="Screenshot 2025-07-18 153824" src="https://github.com/user-attachments/assets/4c4aefd6-9c74-4896-8793-4344cd1e09d0" />
 
 
 
-<img width="1889" height="895" alt="Screenshot 2025-07-18 155634" src="https://github.com/user-attachments/assets/526e38d9-101a-4dc5-9790-b14db01b4f94" />
+<img width="1891" height="892" alt="Screenshot 2025-07-18 154041" src="https://github.com/user-attachments/assets/f692895b-3536-4564-ae58-9bcf9636df25" />
+
+
+
+<img width="1866" height="906" alt="Screenshot 2025-07-18 154126" src="https://github.com/user-attachments/assets/d65042f6-be9a-4057-860a-198b20af035f" />
+
 
 
 
 
 ChatBot Feature:
 
-<img width="1879" height="895" alt="Screenshot 2025-07-18 154508" src="https://github.com/user-attachments/assets/13183d2a-ce95-4283-b47d-2380614f3034" />
+<img width="1879" height="895" alt="Screenshot 2025-07-18 154508" src="https://github.com/user-attachments/assets/1fb9c18a-a83e-4a3e-86ae-28e2668dae60" />
 
 
 ## Installation & Run Locally
