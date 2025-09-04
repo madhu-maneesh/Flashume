@@ -89,6 +89,13 @@ ChatBot Feature:
 
 
 
+Demo
+
+
+https://github.com/user-attachments/assets/0333c9c9-5de8-42b5-9d22-71830f53dff9
+
+
+
 ## Installation & Run Locally
 # Clone the repository
 https://github.com/madhu-maneesh/Flashume.git
